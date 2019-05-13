@@ -13,3 +13,5 @@ This game in python has the following specifications:
 ```
 python fizzbuzz.py
 ```
+# Reason for doing this mini project
+- To show that I am able to learn anything by myself - able to write a piece of code in any language of my choice.
